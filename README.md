@@ -1,4 +1,4 @@
-# Instashell v1.5.4
+# Instashell v3.0
 ## Author: github.com/thelinuxchoice
 ## IG: instagram.com/thelinuxchoice
 ### Don't copy this code without give me the credits, bitch! 
