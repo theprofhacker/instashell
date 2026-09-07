@@ -1,3 +1,4 @@
+#! update version 3.0
 #!/bin/bash
 #Author: github.com/thelinuxchoice
 #Instagram: @thelinuxchoice
