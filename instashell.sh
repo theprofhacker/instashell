@@ -50,7 +50,7 @@ printf "\e[1;92m ) )| ||  _ \  /___)(_   _)(____ | /___)|  _ \ | ___ || || |    
 printf "\e[1;77m(_/ | || | | ||___ |  | |_ / ___ ||___ || | | || ____|| || |  _____   \e[0m\n"
 printf "\e[1;77m    |_||_| |_|(___/    \__)\_____|(___/ |_| |_||_____) \_)\_)(_____)  \e[0m\n"
 printf "\n"
-printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.5.4 Author: thelinuxchoice (Github/IG)   \e[0m\n"
+printf "\e[1;77m\e[45m  Instagram Brute Forcer v3.0 Author: thelinuxchoice (Github/IG)   \e[0m\n"
 printf "\n"
 }
 
@@ -69,7 +69,7 @@ default_wl_pass="passwords.lst"
 read -p $'\e[1;92mPassword List (Enter to default list): \e[0m' wl_pass
 wl_pass="${wl_pass:-${default_wl_pass}}"
 default_threads="10"
-read -p $'\e[1;92mThreads (Use < 20, Default 10): \e[0m' threads
+read -p $'\e[1;92mThreads (Use < 200, Default 1000): \e[0m' threads
 threads="${threads:-${default_threads}}"
 fi
 }
